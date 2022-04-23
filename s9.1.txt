@@ -1,0 +1,18 @@
+<html>
+<head>
+<Title>
+
+</Title>
+</head>
+<body>
+<P>
+<P align="left">
+<P align="Right">
+<P align="Center">
+<BR>
+In a full stack web developer there are two types of developer first one is frontend developer and second
+one is backend developer.
+</P>
+
+</body>
+</html>
